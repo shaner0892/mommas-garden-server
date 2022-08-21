@@ -1,0 +1,22 @@
+[
+    {
+        "model": "mommasgardenapi.product",
+        "pk": 1,
+        "fields": {
+            "plant": 1,
+            "harvest_date": "2020-06-01",
+            "url": "https://www.thegardenprepper.com/wp-content/uploads/2020/08/a-slug-crawls-over-an-eaten-strawberry.jpg",
+            "note": "Harvested a couple small strawberries today."
+        }
+    },
+    {
+        "model": "mommasgardenapi.product",
+        "pk": 2,
+        "fields": {
+            "plant": 2,
+            "harvest_date": "2022-08-01",
+            "url": "https://www.thegardenprepper.com/wp-content/uploads/2020/08/a-slug-crawls-over-an-eaten-strawberry.jpg",
+            "note": "Harvest one small sweet potato."
+        }
+    }
+]

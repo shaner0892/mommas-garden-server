@@ -1,0 +1,41 @@
+[
+    {
+        "model": "mommasgardenapi.plant",
+        "pk": 1,
+        "fields": {
+            "species": "Strawberry",
+            "date_planted": "2020-05-01",
+            "producing": true,
+            "type": 3,
+            "gardener": 1,
+            "url": "https://www.thegardenprepper.com/wp-content/uploads/2020/08/a-slug-crawls-over-an-eaten-strawberry.jpg",
+            "perennial": true
+        }
+    },
+    {
+        "model": "mommasgardenapi.plant",
+        "pk": 2,
+        "fields": {
+            "species": "Sweet Potato",
+            "date_planted": "2022-04-01",
+            "producing": true,
+            "type": 2,
+            "gardener": 1,
+            "url": "https://www.thegardenprepper.com/wp-content/uploads/2020/08/a-slug-crawls-over-an-eaten-strawberry.jpg",
+            "perennial": true
+        }
+    },
+    {
+        "model": "mommasgardenapi.plant",
+        "pk": 3,
+        "fields": {
+            "species": "Clematis",
+            "date_planted": "2020-03-01",
+            "producing": true,
+            "type": 1,
+            "gardener": 1,
+            "url": "https://www.thegardenprepper.com/wp-content/uploads/2020/08/a-slug-crawls-over-an-eaten-strawberry.jpg",
+            "perennial": true
+        }
+    }
+]

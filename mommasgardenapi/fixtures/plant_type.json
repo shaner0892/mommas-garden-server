@@ -1,0 +1,51 @@
+[
+    {
+        "model": "mommasgardenapi.planttype",
+        "pk": 1,
+        "fields": {
+            "type": "Flowering"
+        }
+    },
+    {
+        "model": "mommasgardenapi.planttype",
+        "pk": 2,
+        "fields": {
+            "type": "Vegetable"
+        }
+    },
+    {
+        "model": "mommasgardenapi.planttype",
+        "pk": 3,
+        "fields": {
+            "type": "Fruit"
+        }
+    },
+    {
+        "model": "mommasgardenapi.planttype",
+        "pk": 4,
+        "fields": {
+            "type": "Shrub"
+        }
+    },
+    {
+        "model": "mommasgardenapi.planttype",
+        "pk": 5,
+        "fields": {
+            "type": "Tree"
+        }
+    },
+    {
+        "model": "mommasgardenapi.planttype",
+        "pk": 6,
+        "fields": {
+            "type": "Succulent"
+        }
+    },
+    {
+        "model": "mommasgardenapi.planttype",
+        "pk": 7,
+        "fields": {
+            "type": "Other"
+        }
+    }
+]

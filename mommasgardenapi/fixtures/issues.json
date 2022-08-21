@@ -1,0 +1,14 @@
+[
+    {
+        "model": "mommasgardenapi.issue",
+        "pk": 1,
+        "fields": {
+            "category": 1,
+            "note": "Found several slugs on my strawberries today.",
+            "plant": 1,
+            "date": "2022-06-08",
+            "solution": "I removed the slugs I found.",
+            "url": "https://www.thegardenprepper.com/wp-content/uploads/2020/08/a-slug-crawls-over-an-eaten-strawberry.jpg"
+        }
+    }
+]

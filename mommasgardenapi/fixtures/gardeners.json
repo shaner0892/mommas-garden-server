@@ -1,0 +1,13 @@
+[
+    {
+        "model": "mommasgardenapi.gardener",
+        "pk": 1,
+        "fields": {
+            "bio": "New to gardening!",
+            "url": "https://media.istockphoto.com/vectors/gardener-icon-linear-isolated-illustration-thin-line-vector-web-sign-vector-id1288232922?s=2048x2048",
+            "location": "Nashville, TN",
+            "planting_zone": 7,
+            "user": 1
+        }
+    }
+]
