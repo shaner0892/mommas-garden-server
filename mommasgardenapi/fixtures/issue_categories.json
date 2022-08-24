@@ -3,35 +3,35 @@
         "model": "mommasgardenapi.issuecategory",
         "pk": 1,
         "fields": {
-            "issue": "Pest"
+            "type": "Pest"
         }
     },
     {
         "model": "mommasgardenapi.issuecategory",
         "pk": 2,
         "fields": {
-            "issue": "Water/Moisture"
+            "type": "Water/Moisture"
         }
     },
     {
         "model": "mommasgardenapi.issuecategory",
         "pk": 3,
         "fields": {
-            "issue": "Disease"
+            "type": "Disease"
         }
     },
     {
-        "model": "mommasgardenapi.issue",
+        "model": "mommasgardenapi.issuecategory",
         "pk": 4,
         "fields": {
-            "issue": "Sun/Lighting"
+            "type": "Sun/Lighting"
         }
     },
     {
-        "model": "mommasgardenapi.issue",
+        "model": "mommasgardenapi.issuecategory",
         "pk": 5,
         "fields": {
-            "issue": "Other"
+            "type": "Other"
         }
     }
 ]

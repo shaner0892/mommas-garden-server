@@ -1,0 +1,20 @@
+[
+    {
+        "model": "auth.user",
+        "pk": 1,
+        "fields": {
+            "password": "pbkdf2_sha256$320000$Clh7v2jmCouSJilehF23eM$jBPKDl2eieByQjapqSEl8J34zaoOL+LhUO6zjW1Tu0s=",
+            "last_login": null,
+            "is_superuser": false,
+            "username": "hs123",
+            "first_name": "Hilary",
+            "last_name": "Shaner",
+            "email": "hshanersd@gmail.com",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2020-06-08T14:51:39.989Z",
+            "groups": [],
+            "user_permissions": []
+        }
+    }
+]
